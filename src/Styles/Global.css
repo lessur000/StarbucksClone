@@ -1,0 +1,10 @@
+body {
+  background-color: #06402b;
+}
+
+/* Add gap between slides */
+.slick-slide {
+  padding: 0 5px; /* Adjust the value as needed for the gap */
+}
+
+
